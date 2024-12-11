@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Garcia</h1>
-<h3 align="center">Systems and Computing Engineer, with around 2 years of experience in Backend and Frontend development, working on
-different projects. With knowledge in multiple languages, tools and development frameworks. Also with
-experience in the development of predictive applications and management systems. In addition, I have knowledge in IT management and
+<h3 align="center">Systems and Computing Engineer, with around 2 years of experience in Backend and Frontend development, working on different projects. With knowledge in multiple languages, tools and development frameworks. Also with experience in the development of predictive applications and management systems. In addition, I have knowledge in IT management and
 infrastructure and Cloud Computing.</h3>
 
 - 🌱 I’m currently learning **.Net tools**
