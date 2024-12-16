@@ -2,7 +2,7 @@
 
 ---
 
-Hello! My name is Santiago. Systems and Computing Engineer, with around 2 years of experience in Backend and Frontend development, working on different projects. With knowledge in multiple languages, tools and development frameworks. In addition, I have knowledge in IT management and infrastructure and Cloud Computing.
+Hello! My name is Santiago. Systems and Computing Engineer, with around 1 year of experience in Backend and Frontend development, working on different projects. With knowledge in multiple languages, tools and development frameworks. In addition, I have knowledge in IT management and infrastructure and Cloud Computing.
 
 [LinkedIn](https://www.linkedin.com/in/santiago-garcia-080a99289/) • [Portfolio](in development)
 
