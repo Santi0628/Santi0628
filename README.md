@@ -38,8 +38,8 @@ Feel free to check out my [GitHub repositories](https://github.com/Santi0628?tab
 
 - **Java**: Spring Boot, Hibernate, JPA, Lombok, Spring Security, Maven, Gradle
 - **Golang**: Gin, Fiber, Mux, GORM, XORM
-- **Node.js**: Express.js, Fastify.js
-- **Python**: Django, FastAPI
+- **Node.js**: Express.js
+- **Python**: Django
 - **Version Control**: Git & GitHub
 - **Microservices Architecture**: NATS, Clean Code, Clean Architecture
 - **Documentation**: OpenAPI, Best Practices
