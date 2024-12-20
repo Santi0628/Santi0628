@@ -27,6 +27,7 @@ Feel free to check out my [GitHub repositories](https://github.com/Santi0628?tab
 ### 👨‍💻 Skills
 
 - **Proficient in Java** (Maven, Gradle, JavaFX) with experience building RESTful APIs.
+- **Proficient in Frontend** (React, Angular, Astro) with experience building responsive, user-friendly, and high-performance web application.
 - Developed microservices with **Golang, TypeScript, JavaScript,** and **Python** for scalable backend solutions.
 - **Database expertise** in relational (MySQL, SQL Server, Oracle, PostgreSQL) and non-relational (MongoDB) systems.
 - Skilled in **containerization** with Docker and orchestration tools like Kubernetes and Docker Compose.
@@ -38,6 +39,7 @@ Feel free to check out my [GitHub repositories](https://github.com/Santi0628?tab
 
 - **Java**: Spring Boot, Hibernate, JPA, Lombok, Spring Security, Maven, Gradle
 - **Golang**: Gin, Fiber, Mux, GORM, XORM
+- **Frontend Development**: React, Angular, Astro with **JavaScript** and **TypeScript**
 - **Node.js**: Express.js
 - **Python**: Django
 - **Version Control**: Git & GitHub
